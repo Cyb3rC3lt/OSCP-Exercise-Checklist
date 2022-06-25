@@ -69,7 +69,7 @@
 |----------|-------------|-----|--------|
  |9.3.4.1|9.3.4|Web Application Assessment Tools|Yes|
  |9.4.1.3|9.5.2|Exploiting Admin Consoles|Yes|
- |9.4.2.5|9.6.6|Cross-Site Scripting (XSS)
+ |9.4.2.5|9.6.6|Cross-Site Scripting (XSS)|Yes|
  |9.4.3.2|9.7.2|Directory Traversal Vulnerabilities|Yes|
  |9.4.4.5|9.8.5|LFI Code Execution|Yes|
  |9.4.4.7|9.8.7|Remote File Inclusion|Yes|
