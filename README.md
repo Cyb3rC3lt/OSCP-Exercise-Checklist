@@ -11,7 +11,7 @@
 
 ### Command Line Fun
 |PDF Number|Portal Number|Heading|Yes|
-
+|----------|-------------|-----|--------|
  |3.1.3.1|3.1.4|The Bash Environment|Yes|
  |3.2.5.1|3.2.6|Piping and Redirection|Yes|
  |3.3.5.1|3.3.6|Text Searching and Manipulation|Yes|
