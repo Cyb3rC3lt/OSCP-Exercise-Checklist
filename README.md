@@ -1,4 +1,4 @@
-# OSCP-Exercises
+# OSCP Exercises
 
 ### Getting Comfortable with Kali
 
