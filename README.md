@@ -1,6 +1,6 @@
 # OSCP-Exercises
 
-## Getting Comfortable with Kali
+### Getting Comfortable with Kali
 
 |PDF Number|Portal Number|Title|Required|
 |----------|-------------|-----|--------|
