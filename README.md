@@ -4,10 +4,10 @@
 
 |PDF Number|Portal Number|Title|Required|
 |----------|-------------|-----|--------|
- |2.3.6|2.3.6|Kali Documentation|Yes|
+ |2.3.6|2.3.6|Kali Documentation|No|
  |2.4.3.4|2.4.4|Finding Your Way Around Kali|Yes|
- |2.5.3|2.5.3|Managing Kali Linux Services|Yes|
- |2.6.6.1|2.6.7|Searching, Installing and Removing Tools|Yes|
+ |2.5.3|2.5.3|Managing Kali Linux Services|No|
+ |2.6.6.1|2.6.7|Searching, Installing and Removing Tools|No|
 
 ### Command Line Fun
 |PDF Number|Portal Number|Heading|Required|
@@ -24,7 +24,7 @@
 ### Practical Tools
 |PDF Number|Portal Number|Heading|Required|
 |----------|-------------|-----|--------|
- |4.1.4.3|4.1.5|Netcat|Yes|
+ |4.1.4.3|4.1.5|Netcat|No|
  |4.2.4.1|4.2.5|Socat|Yes|
  |4.3.8.1|4.3.9|PowerShell and Powercat|Yes|
  |4.4.5.1|4.4.6|Wireshark|Yes|
@@ -41,7 +41,7 @@
  |6.3.1.1|6.3.1|Whois Enumeration|Yes|
  |6.4.1.1|6.4.1|Google Hacking|Yes|
  |6.5.1.1|6.5.1|Netcraft|Yes|
- |6.6.1.1|6.6.1|Recon-ng|Yes|
+ |6.6.1.1|6.6.1|Recon-ng|No|
  |6.7.1.1|6.7.1|Open-Source Code|Yes|
  |6.12.1.1|6.12.3|User Information Gathering|Yes|
  |6.13.2.1|6.13.2|Social Media Tools|Yes|
@@ -78,7 +78,7 @@
  |9.4.5.9|9.9.9|Extracting Data From The Database|Yes|
  |9.4.5.11|9.9.11|From SQL Injection to Code Execution|Yes|
  |9.4.5.13|9.9.13|Automating SQL Injection|Yes|
- |9.5.1|9.10.1|Extra Miles|Yes|
+ |9.5.1|9.10.1|Extra Miles|No|
 
 ### Introduction to Buffer Overflows
 |PDF Number|Portal Number|Heading|Required|
@@ -94,7 +94,7 @@
  |11.2.7.1|11.2.10|Finding a Return Address|Yes|
  |11.2.9.1|11.2.13|Getting a Shell|Yes|
  |11.2.10.1|11.2.15|Improving the Exploit|Yes|
- |11.2.10.2|11.2.16|Extra Miles|Yes|
+ |11.2.10.2|11.2.16|Extra Miles|No|
 
 ### Linux Buffer Overflows
 |PDF Number|Portal Number|Heading|Required|
@@ -108,7 +108,7 @@
 ### Client Side Attacks
 |PDF Number|Portal Number|Heading|Required|
 |----------|-------------|-----|--------|
- |13.1.2.3|13.1.5|Know Your Target|Yes|
+ |13.1.2.3|13.1.5|Know Your Target|No|
  |13.2.2.1|13.2.3|Leveraging HTML Applications|Yes|
  |13.3.2.1|13.3.3|Microsoft Word Macro|Yes|
  |13.3.3.1|13.3.5|Object-Linking and Embedding|Yes|
@@ -132,8 +132,8 @@
 ### File Transfers
 |PDF Number|Portal Number|Heading|Required|
 |----------|-------------|-----|--------|
- |16.1.3.2|16.1.4|Considerations and Preparations|Yes|
- |16.2.5.1|16.2.6|Transferring Files With Windows Hosts|Yes|
+ |16.1.3.2|16.1.4|Considerations and Preparations|No|
+ |16.2.5.1|16.2.6|Transferring Files With Windows Hosts|No|
 
 ### Antivirus Evasion
 |PDF Number|Portal Number|Heading|Required|
@@ -154,15 +154,15 @@
 ### Password Attacks
 |PDF Number|Portal Number|Heading|Required|
 |----------|-------------|-----|--------|
- |19.1.1.1|19.1.2|Wordlists|Yes|
- |19.2.1.1|19.2.1|Brute Force Wordlists|Yes|
- |19.3.1.1|19.3.2|HTTP htaccess Attack with Medusa|Yes|
- |19.3.2.1|19.3.4|Remote Desktop Protocol Attack With Crowbar|Yes|
- |19.3.3.1|19.3.6|SSH Atttack With THC-Hydra|Yes|
- |19.3.4.1|19.3.8|HTTP Post Attack With THC-Hydra|Yes|
- |19.4.1.1|19.4.2|Retrieving Password Hashes|Yes|
- |19.4.2.1|19.4.4|Passing the Hash in Windows|Yes|
- |19.4.3.1|19.4.6|Password Cracking|Yes|
+ |19.1.1.1|19.1.2|Wordlists|No|
+ |19.2.1.1|19.2.1|Brute Force Wordlists|No|
+ |19.3.1.1|19.3.2|HTTP htaccess Attack with Medusa|No|
+ |19.3.2.1|19.3.4|Remote Desktop Protocol Attack With Crowbar|No|
+ |19.3.3.1|19.3.6|SSH Atttack With THC-Hydra|No|
+ |19.3.4.1|19.3.8|HTTP Post Attack With THC-Hydra|No|
+ |19.4.1.1|19.4.2|Retrieving Password Hashes|No|
+ |19.4.2.1|19.4.4|Passing the Hash in Windows|No|
+ |19.4.3.1|19.4.6|Password Cracking|No|
 
 ### Port Redirection and Tunnelling
 |PDF Number|Portal Number|Heading|Required|
