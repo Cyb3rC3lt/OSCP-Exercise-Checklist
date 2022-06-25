@@ -2,7 +2,7 @@
 
 ### Getting Comfortable with Kali
 
-|PDF Number|Portal Number|Title|Required|
+|PDF Number|Portal Number|Heading|Required|
 |----------|-------------|-----|--------|
  |2.3.6|2.3.6|Kali Documentation|No|
  |2.4.3.4|2.4.4|Finding Your Way Around Kali|Yes|
