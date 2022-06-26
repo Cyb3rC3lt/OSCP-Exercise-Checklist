@@ -1,4 +1,4 @@
-<img src="Exercises.png" width="660" height="360"/>
+<img src="Exercises.png" width="660" height: auto/>
 
 # PEN-200 OSCP Exercises
 
