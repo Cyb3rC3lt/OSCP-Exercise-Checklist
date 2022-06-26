@@ -96,7 +96,7 @@
  |11.2.7.1|11.2.10|Finding a Return Address|2|Yes|
  |11.2.9.1|11.2.13|Getting a Shell|3|Yes|
  |11.2.10.1|11.2.15|Improving the Exploit|1|Yes|
- |11.2.10.2|11.2.16|Extra Miles|0|No|
+ |11.2.10.2|11.2.16|Extra Miles|1|No|
 
 ### Linux Buffer Overflows
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|
