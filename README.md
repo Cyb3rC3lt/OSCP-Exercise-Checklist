@@ -1,3 +1,5 @@
+<img src="Exercises.png" width="660" height="360"/>
+
 # OSCP Exercises
 
 ### Getting Comfortable with Kali
