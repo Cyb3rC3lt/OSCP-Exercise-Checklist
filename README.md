@@ -1,6 +1,6 @@
 <img src="Exercises.png" width="660" height: auto/>
 
-# PEN-200 OSCP Exercises
+# PEN-200 OSCP Exercise Checklist
 
 ### Getting Comfortable with Kali
 
