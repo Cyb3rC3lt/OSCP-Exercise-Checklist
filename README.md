@@ -207,12 +207,12 @@
 ### PowerShell Empire
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|
 |----------|-------------|-----|--------|--------|
- |23.1.3.1|23.1.4|Installation, Setup and Usage|1|Yes|
- |23.3.1.1|23.3.1|PowerShell Modules|1|Yes|
+ |23.1.3.1|23.1.4|Installation, Setup and Usage|3|Yes|
+ |23.3.1.1|23.3.1|PowerShell Modules|4|Yes|
 
 ### Assembling the Pieces
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|
 |----------|-------------|-----|--------|--------|
  |24.2.2.2|24.2.2|SQL Injection Exploitation|1|Yes|
- |24.5.1.1|24.5.1|Exploitation|1|Yes|
+ |24.5.1.1|24.5.1|Exploitation|2|Yes|
 
