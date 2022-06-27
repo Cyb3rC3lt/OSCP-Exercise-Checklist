@@ -196,10 +196,10 @@
 ### Metasploit Framework
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|
 |----------|-------------|-----|--------|--------|
- |22.1.3.1|22.1.4|Metasploit User Interfaces and Setup|1|Yes|
+ |22.1.3.1|22.1.4|Metasploit User Interfaces and Setup|3|Yes|
  |22.2.1.1|22.2.2|Exploit Modules|1|Yes|
  |22.3.3.2|22.3.4|Experimenting with Meterpeter|1|Yes|
- |22.3.7.1|22.3.9|Metasploit Payloads|1|Yes|
+ |22.3.7.1|22.3.9|Metasploit Payloads|7|Yes|
  |22.4.1.1|22.4.1|Building Our Own MSF Module|1|Yes|
  |22.5.4.1|22.5.5|Post-Exploitation with Metasploit|1|Yes|
  |22.6.1.1|22.6.1|Metasploit Automation|1|Yes|
