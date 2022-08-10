@@ -70,16 +70,16 @@
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|Completed?|
 |----------|-------------|-----|--------|--------|---|
  |9.3.3.1|9.3.4|Web Application Assessment Tools|1|Yes||
- |9.4.1.3|9.5.2|Exploiting Admin Consoles|2|Yes||
- |9.4.2.5|9.6.6|Cross-Site Scripting (XSS)|3|Yes||
- |9.4.3.2|9.7.2|Directory Traversal Vulnerabilities|1|Yes||
- |9.4.4.5|9.8.5|LFI Code Execution|2|Yes||
- |9.4.4.7|9.8.7|Remote File Inclusion|3|Yes||
- |9.4.4.10|9.8.10|PHP Wrappers|2|Yes||
- |9.4.5.4|9.9.4|Authentication Bypass|4|Yes||
- |9.4.5.9|9.9.9|Extracting Data From The Database|3|Yes||
- |9.4.5.11|9.9.11|From SQL Injection to Code Execution|2|Yes||
- |9.4.5.13|9.9.13|Automating SQL Injection|2|Yes||
+ |9.5.1.1|9.5.2|Exploiting Admin Consoles|2|Yes||
+ |9.6.4.1|9.6.6|Cross-Site Scripting (XSS)|3|Yes||
+ |9.7.1.1|9.7.2|Directory Traversal Vulnerabilities|1|Yes||
+ |9.8.4.1|9.8.5|LFI Code Execution|2|Yes||
+ |9.8.5.1|9.8.7|Remote File Inclusion|3|Yes||
+ |9.8.7.1|9.8.10|PHP Wrappers|2|Yes||
+ |9.9.3.1|9.9.4|Authentication Bypass|4|Yes||
+ |9.9.7.1|9.9.9|Extracting Data From The Database|3|Yes||
+ |9.9.8.1|9.9.11|From SQL Injection to Code Execution|2|Yes||
+ |9.9.9.1|9.9.13|Automating SQL Injection|2|Yes||
  |9.5.1|9.10.1|Extra Miles|3|No||
 
 ### Introduction to Buffer Overflows
@@ -163,7 +163,7 @@
  |19.3.3.1|19.3.6|SSH Atttack With THC-Hydra|1|No||
  |19.3.4.1|19.3.8|HTTP Post Attack With THC-Hydra|2|No||
  |19.4.1.1|19.4.2|Retrieving Password Hashes|2|No||
- |19.4.2.1|19.4.4|Passing the Hash in Windows|2|No||
+ |19.4.2.1|19.4.4|Passing the Hash in Windows|2|Yes||
  |19.4.3.1|19.4.6|Password Cracking|1|No||
 
 ### Port Redirection and Tunnelling
