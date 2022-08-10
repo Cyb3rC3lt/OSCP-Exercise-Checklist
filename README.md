@@ -69,7 +69,7 @@
 ### Web Application Attacks
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|Completed?|
 |----------|-------------|-----|--------|--------|---|
- |9.3.4.1|9.3.4|Web Application Assessment Tools|1|Yes||
+ |9.3.3.1|9.3.4|Web Application Assessment Tools|1|Yes||
  |9.4.1.3|9.5.2|Exploiting Admin Consoles|2|Yes||
  |9.4.2.5|9.6.6|Cross-Site Scripting (XSS)|3|Yes||
  |9.4.3.2|9.7.2|Directory Traversal Vulnerabilities|1|Yes||
